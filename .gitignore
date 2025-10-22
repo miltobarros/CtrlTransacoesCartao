@@ -1,0 +1,34 @@
+# Arquivos temporários e binários
+*.exe
+*.dll
+*.ocx
+*.tmp
+*.log
+
+# Compilações VB6
+*.vbp.user
+*.vbw
+*.obj
+*.pdb
+*.res
+
+# Configurações locais
+*.ini
+*.config
+
+# Pastas de build
+/bin/
+/Debug/
+/Release/
+
+# Arquivos do Visual Studio
+.vs/
+*.suo
+*.user
+*.ncb
+*.sdf
+*.cachefile
+
+# Backup automático do VB6
+*.bak
+*.old
